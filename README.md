@@ -9,10 +9,10 @@
 - Farklı karakter sınıfları (Wizard, Fighter)
 
 
-##Oyun nasıl oynanır
--"!go" komutu ile pokemon kartina sahib ola  bilirsiniz
--"!info" komutu ile pokemon kartinizin ozelliklerini (canini, gucunu, boyunu, kilosunu) gore bilirsiniz
--"feed" komutu ile pokemonun canini artira biliyorsunuz
+## Oyun nasıl oynanır
+- "!go" komutu ile pokemon kartina sahib ola  bilirsiniz
+- "!info" komutu ile pokemon kartinizin ozelliklerini (canini, gucunu, boyunu, kilosunu) gore bilirsiniz
+- "feed" komutu ile pokemonun canini artira biliyorsunuz
 
 
 ## Başlatmak için
